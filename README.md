@@ -2,6 +2,6 @@
 
 ## Will write the code by javascript and typescript✌.
 
-- Easy: 14 / 607
-- Medium: 7 / 1322
-- Hard: 3 / 549
+- Easy: 15 / 607
+- Medium: 8 / 1322
+- Hard: 5 / 549
